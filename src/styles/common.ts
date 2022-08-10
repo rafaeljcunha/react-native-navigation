@@ -6,10 +6,10 @@ export const styles = StyleSheet.create({
   view: { alignItems: 'center' },
   button: {
     height: 60,
-    backgroundColor: 'blue',
     marginTop: 24,
     paddingHorizontal: 8,
     justifyContent: 'center',
   },
   buttonText: { fontSize: 24, color: 'white', textAlign: 'center' },
+  textSmall: { fontSize: 24 },
 });
